@@ -5,33 +5,33 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&section=header&reversal=false&text=Leica+Cielle&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&section=header&reversal=false&text=AndroNekoCielle&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
-<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+<h1 align="center">[Leica Cielle]</h1>
+<p align="center">[Information System Student | Student Organization : BNCC, BIC & HIMSISINFO"]</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Binus University Student
+- **Sedang mendalami**: Python, Java, Javascript, mySQL, Git & Github
+- **Target**: Becoming a cloud engineering or Data analyst
+- **Fun fact**: I am an Unc in gen Z in B30 in Binus University
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://linkedin.com/in/username-kamu](https://www.linkedin.com/in/melvin-hardono-ba7697207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/username-kamu](https://www.instagram.com/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="melvinhardono321@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

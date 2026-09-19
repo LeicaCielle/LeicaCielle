@@ -9,13 +9,13 @@
 </p>
 
 <h1 align="center">Leica Cielle</h1>
-<p align="center">Information System Student | Student Organization : BNCC, BIC & HIMSISINFO"</p>
+<p align="center">Information System | Student Organization : BNCC, BIC & HIMSISINFO</p>
 
 ---
 
 ### Details / About Me
 
-- **Current Work**: Binus University Student
+- **Current Work**: Student in Binus University in School of Information Systems
 - **Learning in Focus**: Python, Java, HTML & CSS, Javascript, mySQL, Git & Github
 - **Target**: Becoming a cloud engineering or Data analyst
 - **Fun fact**: I am an Unc in gen Z in B30 in Binus University

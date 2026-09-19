@@ -16,7 +16,7 @@
 ### Details / About Me
 
 - **Current Work**: Binus University Student
-- **Learning in Focus**: Python, Java, Javascript, mySQL, Git & Github
+- **Learning in Focus**: Python, Java, HTML & CSS, Javascript, mySQL, Git & Github
 - **Target**: Becoming a cloud engineering or Data analyst
 - **Fun fact**: I am an Unc in gen Z in B30 in Binus University
 
@@ -25,10 +25,10 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu](https://www.linkedin.com/in/melvin-hardono-ba7697207/" target="_blank">
+  <a href="https://www.linkedin.com/in/melvin-hardono-ba7697207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu](https://www.instagram.com/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="melvinhardono321@gmail.com">

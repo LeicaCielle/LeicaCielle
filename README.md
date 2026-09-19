@@ -50,7 +50,7 @@
 
 ---
 
-### GitHub Stats (opsional)
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=LeicaCielle" alt="GitHub Stats" />

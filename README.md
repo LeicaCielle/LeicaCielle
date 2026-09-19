@@ -8,15 +8,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&section=header&reversal=false&text=AndroNekoCielle&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
 </p>
 
-<h1 align="center">[Leica Cielle]</h1>
-<p align="center">[Information System Student | Student Organization : BNCC, BIC & HIMSISINFO"]</p>
+<h1 align="center">Leica Cielle</h1>
+<p align="center">Information System Student | Student Organization : BNCC, BIC & HIMSISINFO"</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: Binus University Student
-- **Sedang mendalami**: Python, Java, Javascript, mySQL, Git & Github
+- **Current Work**: Binus University Student
+- **Learning in Focus**: Python, Java, Javascript, mySQL, Git & Github
 - **Target**: Becoming a cloud engineering or Data analyst
 - **Fun fact**: I am an Unc in gen Z in B30 in Binus University
 
@@ -53,7 +53,7 @@
 ### GitHub Stats (opsional)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeicaCielle&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <!--

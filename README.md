@@ -5,7 +5,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&section=header&reversal=false&text=AndroNekoCielle&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&section=header&reversal=false&text=AndrogenCielle&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="banner" />
 </p>
 
 <h1 align="center">Leica Cielle</h1>

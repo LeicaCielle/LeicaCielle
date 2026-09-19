@@ -18,7 +18,7 @@
 - **Current Work**: Student in Binus University in School of Information Systems
 - **Learning in Focus**: Python, Java, HTML & CSS, Javascript, mySQL, Git & Github
 - **Target**: Becoming a cloud engineering or Data analyst
-- **Fun fact**: I am an Unc in gen Z in B30 in Binus University
+- **Fun fact**: I am a Gen Z Unc/Dinosaur in B30 Binus University
 
 ---
 

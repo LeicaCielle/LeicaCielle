@@ -53,7 +53,7 @@
 ### GitHub Stats (opsional)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeicaCielle&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=LeicaCielle&show_icons=true&theme=default](https://github-stats-extended.vercel.app/api?username=LeicaCielle)" alt="GitHub Stats" />
 </p>
 
 <!--
